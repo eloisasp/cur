@@ -1,0 +1,145 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #b80cc1;
+}
+
+
+.container{
+    width: 75%;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 115%;  /*Tamanho da letra*/
+}
+
+
+h2 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #b80cc1;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+}
+
+.oi{
+    color: #1f0220;
+    
+}
+
+
+.inicio{
+    width: 50%;
+    margin: auto;
+    line-height: 0.8; /* Ajusta o espaçamento entre as linhas */
+    text-align: center;
+    font-size: 115%; /* Altere para o tamanho desejado */
+}
+
+
+.identidade{
+    width: 4.5%;  /* Define apenas a largura */
+    float:none; /* Posiciona a imagem à esquerda */
+    margin-right: 5%; /* Espaço entre a imagem e o texto */
+}
+
+
+.alvo{
+    width: 4.5%;  /* Define apenas a largura */
+    float:none; /* Posiciona a imagem à esquerda */
+    margin-right: 5%; /* Espaço entre a imagem e o texto */
+}
+
+
+.redes a{
+    font-size: 250%; /* Tamanho do ícone */
+    color: #1d0551;
+    margin-right: 14%;
+    
+    
+}
+
+
+.internet{
+    width: 4.8%;  /* Define apenas a largura */
+    float:none; /* Posiciona a imagem à esquerda */
+    margin-right: 5%; /* Espaço entre a imagem e o texto */
+}
+
+
+.exp{
+    width: 4.5%;  /* Define apenas a largura */
+    float:none; /* Posiciona a imagem à esquerda */
+    margin-right: 5%; /* Espaço entre a imagem e o texto */
+}
+
+
+
+.Formação p{
+    font-style:italic;
+    line-height: normal;
+}
+
+.imag{
+    width: 4.5%;  /* Define apenas a largura */
+    float:none; /* Posiciona a imagem à esquerda */
+    margin-right: 5%; /* Espaço entre a imagem e o texto */
+}
+
+.experiencia{
+    line-height: normal;
+
+}
+
+.experiencia p{
+    font-style:italic;
+    color: #03000a;
+}
+
+
+.Hobby{
+    
+    text-align:left;
+    /*float:none;*/
+    line-height: 1.5;
+    flex-direction: column;
+}
+
+
+.hobby2{
+    width: 4.5%;  /* Define apenas a largura */
+    float:none; /* Posiciona a imagem à esquerda */
+    margin-right: 5%; /* Espaço entre a imagem e o texto */
+}
+
+
+.imagem1{
+    width: 30%;  /* Define apenas a largura */
+    height: 50%; /* Mantém a proporção da altura */
+    border-radius: 30%; /* Mantém o formato circular */
+    display: block; /* Torna a imagem um bloco */
+    /*margin:auto; /* Centraliza a imagem */
+    line-height: 1;
+}
+
+.desenho2{
+    width: 25%;  /* Define apenas a largura */
+    height: auto; /* Mantém a proporção da altura */
+    border-radius: 30%; /* Mantém o formato circular */
+    display:inline-block; /* Torna a imagem um bloco */
+    margin:auto; /* Centraliza a imagem */
+    float: none;
+    max-width: 100%; /* Para evitar que a imagem ultrapasse o container */
+    text-align: center;
+
+}
+
+
+.rodape{
+    text-align: center;
+    color: #03000a;
+}
+
+
+
+
